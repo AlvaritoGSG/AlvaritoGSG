@@ -1,14 +1,14 @@
 # ¡Hola, mi nombre es Álvaro! 👋
 
-## 👨‍💻 Desarrollador Full Stack
+### Soy Desarrollador Web Full Stack
 
-Soy un Desarrollador Web Full Stack. Desde niño me han apasionado las matemáticas y la programación; cuido mi cuerpo, valoro el desarrollo personal y me encantaría implementar soluciones tecnológicas que mejoren nuestra calidad de vida.
+Desde niño me han apasionado las matemáticas y la programación; cuido mi cuerpo, valoro el desarrollo personal y me encantaría implementar soluciones tecnológicas que mejoren nuestra calidad de vida.
 
-Explora mis repositorios y visita mi portafolio web para darte una idea de mi experiencia.Busco oportunidades en la industria, me llama la atención trabajar con productos robustos y escalables. Estoy listo para asumir nuevos retos y crecer profesionalmente. ¡Contácteme!
+Explora mis repositorios y visita mi portafolio web para darte una idea de mi experiencia. Estoy listo para asumir nuevos retos, ¡Contacta conmigo y construyamos juntos un futuro extraordinario!
 
 ## 🚀 Mis Habilidades
 
-### Front-end
+#### Front-end
 
 ![Static Badge](https://img.shields.io/badge/html-%23E34F26?style=for-the-badge&logo=html5&labelColor=black)
 ![Static Badge](https://img.shields.io/badge/css3-%231572B6?style=for-the-badge&logo=css&logoColor=1572b6&labelColor=black)
@@ -17,7 +17,7 @@ Explora mis repositorios y visita mi portafolio web para darte una idea de mi ex
 ![Static Badge](https://img.shields.io/badge/vuejs-%234FC08D?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D&labelColor=black)
 ![Static Badge](https://img.shields.io/badge/Bootstrap-%23563D7C?style=for-the-badge&logo=bootstrap&logoColor=7611f6&labelColor=black)
 
-### Back-end
+#### Back-end
 
 ![Static Badge](https://img.shields.io/badge/laravel-%23FF2D20?style=for-the-badge&logo=laravel&logoColor=%23FF2D20&labelColor=black)
 ![Static Badge](https://img.shields.io/badge/php-%23777BB4?style=for-the-badge&logo=php&logoColor=%23777BB4&labelColor=black)
@@ -26,7 +26,7 @@ Explora mis repositorios y visita mi portafolio web para darte una idea de mi ex
 ![Static Badge](https://img.shields.io/badge/mysql-%234479A1?style=for-the-badge&logo=mysql&logoColor=e59208&labelColor=black)
 ![Static Badge](https://img.shields.io/badge/PostgreSQL-%23316192?style=for-the-badge&logo=postgresql&logoColor=316192&labelColor=black)
 
-### DevOps & Herramientas
+#### DevOps & Herramientas
 
 ![Static Badge](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black&labelColor=white)
 ![Static Badge](https://img.shields.io/badge/docker-%232496ED?style=for-the-badge&logo=docker&logoColor=2496ed&labelColor=black)
@@ -41,55 +41,61 @@ Explora mis repositorios y visita mi portafolio web para darte una idea de mi ex
 ![Static Badge](https://img.shields.io/badge/Python-fed646?style=for-the-badge&logo=python&logoColor=fed646&labelColor=3572a2)
 ![Static Badge](https://img.shields.io/badge/Django-174435?style=for-the-badge&logo=python&logoColor=174435&labelColor=black)
 ![Static Badge](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=009688&labelColor=white)
+
+![Static Badge](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=239120&labelColor=white)
+![Static Badge](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=512BD4&labelColor=black)
 -->
-
-## 📫 Conéctate conmigo
-
-[![Website](https://img.shields.io/badge/-Web_Personal-orange?style=flat-square&logo=internetexplorer&logoColor=white)](https://alvaritogsg.dev)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/AlvaritoGSG)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://x.com/AlvaritoGSG)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alvaritogsg/)
-
-## 💡 Intereses
-
-- 🌐 Desarrollo Web Moderno
-- 🏗️ Ingeniería de Software
-- 🧠 Inteligencia Artificial
-
-## 🎯 Objetivos para 2026
-
-- Adquirir experiencia profesional en la industria tecnológica.
-- Mejorar mis habilidades técnicas como desarrollador.
 
 ## 📊 Mi Actividad y Estadísticas de GitHub
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AlvaritoGSG&theme=dracula&hide_border=true" alt="Racha de contribuciones" />
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=AlvaritoGSG&show_icons=true&theme=radical&count_private=true&hide_border=true" alt="Estadísticas de GitHub" />
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AlvaritoGSG&layout=compact&langs_count=8&theme=radical&hide_border=true" alt="Lenguajes principales" />
-</div>
+<section style="display:flex; flex-wrap:wrap; gap:20px; justify-content:center">
+  <figure>
+    <img
+      src="https://github-readme-streak-stats.herokuapp.com/?user=AlvaritoGSG&theme=dracula&hide_border=true"
+      alt="Racha de contribuciones"
+      loading="lazy"
+      height="180"
+      style="border-radius:8px;"
+    />
+  </figure>
+  <figure>
+    <img
+      src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AlvaritoGSG&layout=compact&langs_count=8&theme=dracula&hide_border=true"
+      alt="Lenguajes más usados"
+      loading="lazy"
+      height="180"
+      style="border-radius:8px;"
+    />
+  </figure>
+  <figure>
+    <img
+      src="https://github-readme-stats-eight-theta.vercel.app/api?username=AlvaritoGSG&show_icons=true&theme=dracula&count_private=true&hide_border=true"
+      alt="Estadísticas del perfil"
+      loading="lazy"
+      height="180"
+      style="border-radius:8px;"
+    />
+  </figure>
+</section>
 
----
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AlvaritoGSG&color=orange" alt="Visitas al perfil">
-</p>
+## 👨‍💻 Más Sobre Mi
+Intereses 💡|Objetivos 2026 🎯
+-------------|-------------------
+🌐 Desarrollo Web Moderno| 👨‍💻 Adquirir experiencia profesional en la industria tecnológica.
+🏗️ Ingeniería de Software| 📈 Mejorar mis habilidades técnicas como desarrollador.
+🧠 Inteligencia Artificial| 🧑🏽‍🔬 Explorar Ciencia de Datos
+
+## 📫 ¿Cómo llegar a mi?
+
+[![Website](https://img.shields.io/badge/-Web_Personal-orange?style=for-the-badge&logo=googlechrome&logoColor=white)](https://alvaritogsg.dev)
+[![Twitter](https://img.shields.io/badge/-Twitter-black?style=for-the-badge&logo=x&logoColor=white)](https://x.com/AlvaritoGSG)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/alvaritogsg/)
 
 ---
 
 > "La ingeniería es el arte de modelar materiales que no comprendemos, en formas que no podemos analizar, para soportar fuerzas que no podemos prever, de tal manera que el público no tiene razón para sospechar la extensión de nuestra ignorancia." - Dr. AR Dykes
 
-<!--
-**AlvaritoGSG/AlvaritoGSG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=AlvaritoGSG&color=orange" alt="Visitas al perfil">
+</p>
